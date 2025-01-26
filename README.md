@@ -1,9 +1,9 @@
 # MyPicDB
 用於存放MyPic系列背後資料的repo
 
-# 使用方式
+## 使用方式
 
-## 讀取data.json
+### 讀取data.json
 其中的資料格式為list\[dict\]
 字典中具體格式如下
 ```json
@@ -15,7 +15,7 @@
     "segment_id": 0
   },
 ```
-## 讀取對應圖片
+### 讀取對應圖片
 預期檔案名為
 > `{episode}_{frame_start}.jpg`
 
