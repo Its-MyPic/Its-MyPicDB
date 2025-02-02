@@ -20,4 +20,4 @@
 > `{episode}_{frame_start}.jpg`
 
 若想直接存取可以請求
-> `https://media.githubusercontent.com/media/jeffpeng3/MyPicDB/assets/images/{episode}_{frame_start}.jpg`
+> `https://mygodata.0m0.uk/images/{episode}_{frame_start}.jpg`
