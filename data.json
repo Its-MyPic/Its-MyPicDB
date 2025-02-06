@@ -42889,7 +42889,7 @@
     "segment_id": 6126
   },
   {
-    "text": "(掛毯已完售)\n物販的隊伍排得好長喔",
+    "text": "(掛毯已完售) 物販的隊伍排得好長喔",
     "episode": "ave-5",
     "frame_start": 379,
     "frame_end": 425,
@@ -42938,7 +42938,7 @@
     "segment_id": 6133
   },
   {
-    "text": "好的\n",
+    "text": "好的",
     "episode": "ave-5",
     "frame_start": 811,
     "frame_end": 833,
@@ -43127,7 +43127,7 @@
     "segment_id": 6160
   },
   {
-    "text": "你們覺得如果是找我\n我就會願意回答嗎",
+    "text": "你們覺得如果是找我 我就會願意回答嗎",
     "episode": "ave-5",
     "frame_start": 5725,
     "frame_end": 5798,
@@ -43225,7 +43225,7 @@
     "segment_id": 6174
   },
   {
-    "text": "(YKL的合作發表影片)\n(來自Nyamuchi的重大發表！要看到最後喔~)",
+    "text": "(YKL的合作發表影片) (來自Nyamuchi的重大發表！要看到最後喔~)",
     "episode": "ave-5",
     "frame_start": 7326,
     "frame_end": 7369,
@@ -43911,7 +43911,7 @@
     "segment_id": 6272
   },
   {
-    "text": "(經紀人 袋小路小姐)\n(來電中)",
+    "text": "(經紀人 袋小路小姐) (來電中)",
     "episode": "ave-5",
     "frame_start": 18862,
     "frame_end": 18907,
@@ -44135,7 +44135,7 @@
     "segment_id": 6304
   },
   {
-    "text": "(Vocal 我)\n這一段是吉他的部分",
+    "text": "(Vocal 我) 這一段是吉他的部分",
     "episode": "ave-5",
     "frame_start": 23319,
     "frame_end": 23363,
@@ -44163,7 +44163,7 @@
     "segment_id": 6308
   },
   {
-    "text": "(Key 小祥)(Bass 爽世)\n最下面是立希負責的部分",
+    "text": "(Key 小祥)(Bass 爽世) 最下面是立希負責的部分",
     "episode": "ave-5",
     "frame_start": 23604,
     "frame_end": 23655,
@@ -44233,7 +44233,7 @@
     "segment_id": 6318
   },
   {
-    "text": "我都差點忍不住想和樂團名一樣\n大喊\"聽聽我們的歌吧\"了",
+    "text": "我都差點忍不住想和樂團名一樣 大喊\"聽聽我們的歌吧\"了",
     "episode": "ave-5",
     "frame_start": 24427,
     "frame_end": 24563,
@@ -44569,10 +44569,2502 @@
     "segment_id": 6366
   },
   {
-    "text": "叫醒小睦\n",
+    "text": "叫醒小睦",
     "episode": "ave-5",
     "frame_start": 33628,
     "frame_end": 33658,
     "segment_id": 6367
+  },
+  {
+    "text": "小祥",
+    "episode": "ave-6",
+    "frame_start": 27,
+    "frame_end": 57,
+    "segment_id": 6368
+  },
+  {
+    "text": "來組樂團吧!",
+    "episode": "ave-6",
+    "frame_start": 77,
+    "frame_end": 110,
+    "segment_id": 6369
+  },
+  {
+    "text": "像之前那樣一起組樂團",
+    "episode": "ave-6",
+    "frame_start": 228,
+    "frame_end": 303,
+    "segment_id": 6370
+  },
+  {
+    "text": "然後...",
+    "episode": "ave-6",
+    "frame_start": 323,
+    "frame_end": 353,
+    "segment_id": 6371
+  },
+  {
+    "text": "我應該說過已經夠了",
+    "episode": "ave-6",
+    "frame_start": 379,
+    "frame_end": 431,
+    "segment_id": 6372
+  },
+  {
+    "text": "可是,妳那個時候哭了",
+    "episode": "ave-6",
+    "frame_start": 459,
+    "frame_end": 522,
+    "segment_id": 6373
+  },
+  {
+    "text": "妳又懂我什麼了?",
+    "episode": "ave-6",
+    "frame_start": 551,
+    "frame_end": 625,
+    "segment_id": 6374
+  },
+  {
+    "text": "難道妳是想說組樂團就能變幸福嗎?",
+    "episode": "ave-6",
+    "frame_start": 646,
+    "frame_end": 726,
+    "segment_id": 6375
+  },
+  {
+    "text": "真是這樣的話",
+    "episode": "ave-6",
+    "frame_start": 736,
+    "frame_end": 766,
+    "segment_id": 6376
+  },
+  {
+    "text": "那妳的想法真是錯得離譜",
+    "episode": "ave-6",
+    "frame_start": 766,
+    "frame_end": 814,
+    "segment_id": 6377
+  },
+  {
+    "text": "我的話說完了",
+    "episode": "ave-6",
+    "frame_start": 859,
+    "frame_end": 892,
+    "segment_id": 6378
+  },
+  {
+    "text": "請妳們回去吧",
+    "episode": "ave-6",
+    "frame_start": 948,
+    "frame_end": 977,
+    "segment_id": 6379
+  },
+  {
+    "text": "請妳們回去吧",
+    "episode": "ave-6",
+    "frame_start": 1067,
+    "frame_end": 1099,
+    "segment_id": 6380
+  },
+  {
+    "text": "她也太過分了吧",
+    "episode": "ave-6",
+    "frame_start": 1201,
+    "frame_end": 1244,
+    "segment_id": 6381
+  },
+  {
+    "text": "虧妳還那麼擔心她",
+    "episode": "ave-6",
+    "frame_start": 1244,
+    "frame_end": 1298,
+    "segment_id": 6382
+  },
+  {
+    "text": "妳覺得幸福是什麼?",
+    "episode": "ave-6",
+    "frame_start": 3969,
+    "frame_end": 4016,
+    "segment_id": 6383
+  },
+  {
+    "text": "演唱會",
+    "episode": "ave-6",
+    "frame_start": 4016,
+    "frame_end": 4039,
+    "segment_id": 6384
+  },
+  {
+    "text": "就知道妳會這麼說",
+    "episode": "ave-6",
+    "frame_start": 4057,
+    "frame_end": 4082,
+    "segment_id": 6385
+  },
+  {
+    "text": "吉他,和貓玩,抹茶",
+    "episode": "ave-6",
+    "frame_start": 4082,
+    "frame_end": 4158,
+    "segment_id": 6386
+  },
+  {
+    "text": "抹茶百匯,蕎麥麵",
+    "episode": "ave-6",
+    "frame_start": 4158,
+    "frame_end": 4203,
+    "segment_id": 6387
+  },
+  {
+    "text": "夠了夠了夠了",
+    "episode": "ave-6",
+    "frame_start": 4203,
+    "frame_end": 4221,
+    "segment_id": 6388
+  },
+  {
+    "text": "柚餅子",
+    "episode": "ave-6",
+    "frame_start": 4221,
+    "frame_end": 4237,
+    "segment_id": 6389
+  },
+  {
+    "text": "柚餅...",
+    "episode": "ave-6",
+    "frame_start": 4245,
+    "frame_end": 4264,
+    "segment_id": 6390
+  },
+  {
+    "text": "抱歉,我們遲到了",
+    "episode": "ave-6",
+    "frame_start": 4280,
+    "frame_end": 4330,
+    "segment_id": 6391
+  },
+  {
+    "text": "太慢了,妳不知道演唱會快到了嗎",
+    "episode": "ave-6",
+    "frame_start": 4337,
+    "frame_end": 4384,
+    "segment_id": 6392
+  },
+  {
+    "text": "所以我都道歉了嘛",
+    "episode": "ave-6",
+    "frame_start": 4390,
+    "frame_end": 4432,
+    "segment_id": 6393
+  },
+  {
+    "text": "Soyorin呢?",
+    "episode": "ave-6",
+    "frame_start": 4432,
+    "frame_end": 4456,
+    "segment_id": 6394
+  },
+  {
+    "text": "還沒來",
+    "episode": "ave-6",
+    "frame_start": 4457,
+    "frame_end": 4474,
+    "segment_id": 6395
+  },
+  {
+    "text": "太好了",
+    "episode": "ave-6",
+    "frame_start": 4474,
+    "frame_end": 4513,
+    "segment_id": 6396
+  },
+  {
+    "text": "Tomorin今天可能有一點累",
+    "episode": "ave-6",
+    "frame_start": 4634,
+    "frame_end": 4705,
+    "segment_id": 6397
+  },
+  {
+    "text": "發生什麼事了嗎",
+    "episode": "ave-6",
+    "frame_start": 4705,
+    "frame_end": 4728,
+    "segment_id": 6398
+  },
+  {
+    "text": "剛才在祥子家找她組樂團",
+    "episode": "ave-6",
+    "frame_start": 4728,
+    "frame_end": 4803,
+    "segment_id": 6399
+  },
+  {
+    "text": "祥子?",
+    "episode": "ave-6",
+    "frame_start": 4815,
+    "frame_end": 4836,
+    "segment_id": 6400
+  },
+  {
+    "text": "但結果我們被趕出去了",
+    "episode": "ave-6",
+    "frame_start": 4836,
+    "frame_end": 4884,
+    "segment_id": 6401
+  },
+  {
+    "text": "燈,真的嗎",
+    "episode": "ave-6",
+    "frame_start": 4913,
+    "frame_end": 4948,
+    "segment_id": 6402
+  },
+  {
+    "text": "我想要...",
+    "episode": "ave-6",
+    "frame_start": 4977,
+    "frame_end": 5012,
+    "segment_id": 6403
+  },
+  {
+    "text": "和祥子講話...",
+    "episode": "ave-6",
+    "frame_start": 5038,
+    "frame_end": 5080,
+    "segment_id": 6404
+  },
+  {
+    "text": "我覺得妳沒必要和她講話",
+    "episode": "ave-6",
+    "frame_start": 5141,
+    "frame_end": 5194,
+    "segment_id": 6405
+  },
+  {
+    "text": "我不希望妳因為投身這件事而受傷",
+    "episode": "ave-6",
+    "frame_start": 5283,
+    "frame_end": 5380,
+    "segment_id": 6406
+  },
+  {
+    "text": "来玩樂團吧",
+    "episode": "ave-6",
+    "frame_start": 5600,
+    "frame_end": 5625,
+    "segment_id": 6407
+  },
+  {
+    "text": "等一下,Soyorin還沒到耶",
+    "episode": "ave-6",
+    "frame_start": 5674,
+    "frame_end": 5730,
+    "segment_id": 6408
+  },
+  {
+    "text": "她待會就來了吧",
+    "episode": "ave-6",
+    "frame_start": 5730,
+    "frame_end": 5762,
+    "segment_id": 6409
+  },
+  {
+    "text": "再等她一下嘛",
+    "episode": "ave-6",
+    "frame_start": 5777,
+    "frame_end": 5819,
+    "segment_id": 6410
+  },
+  {
+    "text": "沒有時間了",
+    "episode": "ave-6",
+    "frame_start": 5819,
+    "frame_end": 5845,
+    "segment_id": 6411
+  },
+  {
+    "text": "可是",
+    "episode": "ave-6",
+    "frame_start": 5845,
+    "frame_end": 5878,
+    "segment_id": 6412
+  },
+  {
+    "text": "可是什麼?",
+    "episode": "ave-6",
+    "frame_start": 5878,
+    "frame_end": 5900,
+    "segment_id": 6413
+  },
+  {
+    "text": "我明明就只是想保護小睦而已",
+    "episode": "ave-6",
+    "frame_start": 5978,
+    "frame_end": 6068,
+    "segment_id": 6414
+  },
+  {
+    "text": "我差不多該去學校了",
+    "episode": "ave-6",
+    "frame_start": 6068,
+    "frame_end": 6122,
+    "segment_id": 6415
+  },
+  {
+    "text": "不行,妳不可以走",
+    "episode": "ave-6",
+    "frame_start": 6140,
+    "frame_end": 6185,
+    "segment_id": 6416
+  },
+  {
+    "text": "拜託妳,叫醒小睦吧",
+    "episode": "ave-6",
+    "frame_start": 6206,
+    "frame_end": 6265,
+    "segment_id": 6417
+  },
+  {
+    "text": "這件事只能拜託妳了",
+    "episode": "ave-6",
+    "frame_start": 6265,
+    "frame_end": 6303,
+    "segment_id": 6418
+  },
+  {
+    "text": "我先說清楚",
+    "episode": "ave-6",
+    "frame_start": 6338,
+    "frame_end": 6367,
+    "segment_id": 6419
+  },
+  {
+    "text": "我和小睦的交情沒有那麼好",
+    "episode": "ave-6",
+    "frame_start": 6367,
+    "frame_end": 6452,
+    "segment_id": 6420
+  },
+  {
+    "text": "沒有這回事吧",
+    "episode": "ave-6",
+    "frame_start": 6452,
+    "frame_end": 6499,
+    "segment_id": 6421
+  },
+  {
+    "text": "我全知道喔,因為我都看在眼裡",
+    "episode": "ave-6",
+    "frame_start": 6499,
+    "frame_end": 6555,
+    "segment_id": 6422
+  },
+  {
+    "text": "爽世",
+    "episode": "ave-6",
+    "frame_start": 6618,
+    "frame_end": 6649,
+    "segment_id": 6423
+  },
+  {
+    "text": "妳很喜歡CRYCHIC對不對",
+    "episode": "ave-6",
+    "frame_start": 6649,
+    "frame_end": 6702,
+    "segment_id": 6424
+  },
+  {
+    "text": "就和小睦一樣",
+    "episode": "ave-6",
+    "frame_start": 6728,
+    "frame_end": 6769,
+    "segment_id": 6425
+  },
+  {
+    "text": "祥子真的好過分喔",
+    "episode": "ave-6",
+    "frame_start": 6980,
+    "frame_end": 7031,
+    "segment_id": 6426
+  },
+  {
+    "text": "小睦明明就不想毁掉樂團",
+    "episode": "ave-6",
+    "frame_start": 7032,
+    "frame_end": 7087,
+    "segment_id": 6427
+  },
+  {
+    "text": "可是每次都被祥子毁掉",
+    "episode": "ave-6",
+    "frame_start": 7087,
+    "frame_end": 7144,
+    "segment_id": 6428
+  },
+  {
+    "text": "妳說小祥...",
+    "episode": "ave-6",
+    "frame_start": 7144,
+    "frame_end": 7175,
+    "segment_id": 6429
+  },
+  {
+    "text": "她都只想著自己",
+    "episode": "ave-6",
+    "frame_start": 7176,
+    "frame_end": 7213,
+    "segment_id": 6430
+  },
+  {
+    "text": "害大家的氣氛變得越來越糟",
+    "episode": "ave-6",
+    "frame_start": 7213,
+    "frame_end": 7259,
+    "segment_id": 6431
+  },
+  {
+    "text": "小睦也是因為被逼到瀕臨極限",
+    "episode": "ave-6",
+    "frame_start": 7259,
+    "frame_end": 7309,
+    "segment_id": 6432
+  },
+  {
+    "text": "所以我才代替她出來的",
+    "episode": "ave-6",
+    "frame_start": 7309,
+    "frame_end": 7355,
+    "segment_id": 6433
+  },
+  {
+    "text": "結果她們卻說我必需彈吉他",
+    "episode": "ave-6",
+    "frame_start": 7402,
+    "frame_end": 7484,
+    "segment_id": 6434
+  },
+  {
+    "text": "還說不那樣就不能算是樂團了",
+    "episode": "ave-6",
+    "frame_start": 7484,
+    "frame_end": 7536,
+    "segment_id": 6435
+  },
+  {
+    "text": "所以我想叫醒小睦",
+    "episode": "ave-6",
+    "frame_start": 7561,
+    "frame_end": 7601,
+    "segment_id": 6436
+  },
+  {
+    "text": "請她彈吉他",
+    "episode": "ave-6",
+    "frame_start": 7601,
+    "frame_end": 7642,
+    "segment_id": 6437
+  },
+  {
+    "text": "這樣樂團就能恢復原状了吧?",
+    "episode": "ave-6",
+    "frame_start": 7642,
+    "frame_end": 7702,
+    "segment_id": 6438
+  },
+  {
+    "text": "電話",
+    "episode": "ave-6",
+    "frame_start": 7810,
+    "frame_end": 7829,
+    "segment_id": 6439
+  },
+  {
+    "text": "我得打電話",
+    "episode": "ave-6",
+    "frame_start": 7873,
+    "frame_end": 7898,
+    "segment_id": 6440
+  },
+  {
+    "text": "喂?請問是醫生嗎?",
+    "episode": "ave-6",
+    "frame_start": 7940,
+    "frame_end": 7989,
+    "segment_id": 6441
+  },
+  {
+    "text": "喂?妳有聽見嗎?",
+    "episode": "ave-6",
+    "frame_start": 8004,
+    "frame_end": 8059,
+    "segment_id": 6442
+  },
+  {
+    "text": "喂?",
+    "episode": "ave-6",
+    "frame_start": 8099,
+    "frame_end": 8120,
+    "segment_id": 6443
+  },
+  {
+    "text": "喂?",
+    "episode": "ave-6",
+    "frame_start": 8191,
+    "frame_end": 8213,
+    "segment_id": 6444
+  },
+  {
+    "text": "請問有聽見嗎?",
+    "episode": "ave-6",
+    "frame_start": 8232,
+    "frame_end": 8258,
+    "segment_id": 6445
+  },
+  {
+    "text": "你是醫生吧?",
+    "episode": "ave-6",
+    "frame_start": 8298,
+    "frame_end": 8331,
+    "segment_id": 6446
+  },
+  {
+    "text": "喂?",
+    "episode": "ave-6",
+    "frame_start": 8357,
+    "frame_end": 8379,
+    "segment_id": 6447
+  },
+  {
+    "text": "喂?",
+    "episode": "ave-6",
+    "frame_start": 8406,
+    "frame_end": 8430,
+    "segment_id": 6448
+  },
+  {
+    "text": "妳好,請問怎麼了嗎?",
+    "episode": "ave-6",
+    "frame_start": 8439,
+    "frame_end": 8489,
+    "segment_id": 6449
+  },
+  {
+    "text": "妳是醫生嗎?",
+    "episode": "ave-6",
+    "frame_start": 8501,
+    "frame_end": 8538,
+    "segment_id": 6450
+  },
+  {
+    "text": "那個...我...",
+    "episode": "ave-6",
+    "frame_start": 8538,
+    "frame_end": 8586,
+    "segment_id": 6451
+  },
+  {
+    "text": "其實我一直很想將樂團 和吉他從小睦手中奪走",
+    "episode": "ave-6",
+    "frame_start": 8604,
+    "frame_end": 8719,
+    "segment_id": 6452
+  },
+  {
+    "text": "因為她看起來好難受",
+    "episode": "ave-6",
+    "frame_start": 8738,
+    "frame_end": 8790,
+    "segment_id": 6453
+  },
+  {
+    "text": "但那樣做小睦會很悲傷",
+    "episode": "ave-6",
+    "frame_start": 8808,
+    "frame_end": 8887,
+    "segment_id": 6454
+  },
+  {
+    "text": "那麼",
+    "episode": "ave-6",
+    "frame_start": 8933,
+    "frame_end": 8954,
+    "segment_id": 6455
+  },
+  {
+    "text": "妳要不要試著和大家一起彈吉他呢?",
+    "episode": "ave-6",
+    "frame_start": 8954,
+    "frame_end": 9024,
+    "segment_id": 6456
+  },
+  {
+    "text": "能有各方面的刺激",
+    "episode": "ave-6",
+    "frame_start": 9059,
+    "frame_end": 9105,
+    "segment_id": 6457
+  },
+  {
+    "text": "對小睦來說應該也會是好事",
+    "episode": "ave-6",
+    "frame_start": 9105,
+    "frame_end": 9159,
+    "segment_id": 6458
+  },
+  {
+    "text": "像是和别人見面",
+    "episode": "ave-6",
+    "frame_start": 9176,
+    "frame_end": 9213,
+    "segment_id": 6459
+  },
+  {
+    "text": "或者是聆聽演奏",
+    "episode": "ave-6",
+    "frame_start": 9213,
+    "frame_end": 9246,
+    "segment_id": 6460
+  },
+  {
+    "text": "我也會一起去的",
+    "episode": "ave-6",
+    "frame_start": 9257,
+    "frame_end": 9298,
+    "segment_id": 6461
+  },
+  {
+    "text": "好嗎?",
+    "episode": "ave-6",
+    "frame_start": 9310,
+    "frame_end": 9330,
+    "segment_id": 6462
+  },
+  {
+    "text": "都已經三天了耶",
+    "episode": "ave-6",
+    "frame_start": 9391,
+    "frame_end": 9437,
+    "segment_id": 6463
+  },
+  {
+    "text": "連已讀都沒有不太對勁吧?",
+    "episode": "ave-6",
+    "frame_start": 9437,
+    "frame_end": 9492,
+    "segment_id": 6464
+  },
+  {
+    "text": "我看一定是那個吧",
+    "episode": "ave-6",
+    "frame_start": 9492,
+    "frame_end": 9535,
+    "segment_id": 6465
+  },
+  {
+    "text": "Soyorin一定又一個人在憂鬱了吧",
+    "episode": "ave-6",
+    "frame_start": 9535,
+    "frame_end": 9601,
+    "segment_id": 6466
+  },
+  {
+    "text": "那傢伙一旦沮喪起來 就會放任自己沮喪到底",
+    "episode": "ave-6",
+    "frame_start": 9686,
+    "frame_end": 9748,
+    "segment_id": 6467
+  },
+  {
+    "text": "就是説啊",
+    "episode": "ave-6",
+    "frame_start": 9748,
+    "frame_end": 9779,
+    "segment_id": 6468
+  },
+  {
+    "text": "我看只能去Soyorin家了吧",
+    "episode": "ave-6",
+    "frame_start": 9779,
+    "frame_end": 9844,
+    "segment_id": 6469
+  },
+  {
+    "text": "不然就是直接去學校找她",
+    "episode": "ave-6",
+    "frame_start": 9844,
+    "frame_end": 9894,
+    "segment_id": 6470
+  },
+  {
+    "text": "來了",
+    "episode": "ave-6",
+    "frame_start": 9901,
+    "frame_end": 9918,
+    "segment_id": 6471
+  },
+  {
+    "text": "Soyorin",
+    "episode": "ave-6",
+    "frame_start": 10008,
+    "frame_end": 10030,
+    "segment_id": 6472
+  },
+  {
+    "text": "練習都結束...",
+    "episode": "ave-6",
+    "frame_start": 10058,
+    "frame_end": 10092,
+    "segment_id": 6473
+  },
+  {
+    "text": "",
+    "episode": "ave-6",
+    "frame_start": 10092,
+    "frame_end": 10100,
+    "segment_id": 6474
+  },
+  {
+    "text": "小睦",
+    "episode": "ave-6",
+    "frame_start": 10120,
+    "frame_end": 10163,
+    "segment_id": 6475
+  },
+  {
+    "text": "小睦?",
+    "episode": "ave-6",
+    "frame_start": 10163,
+    "frame_end": 10190,
+    "segment_id": 6476
+  },
+  {
+    "text": "為什麼為什麼",
+    "episode": "ave-6",
+    "frame_start": 10235,
+    "frame_end": 10266,
+    "segment_id": 6477
+  },
+  {
+    "text": "Soyorin,妳怎麼和小睦在一起?",
+    "episode": "ave-6",
+    "frame_start": 10266,
+    "frame_end": 10310,
+    "segment_id": 6478
+  },
+  {
+    "text": "天啊,真的好可爱喔",
+    "episode": "ave-6",
+    "frame_start": 10310,
+    "frame_end": 10371,
+    "segment_id": 6479
+  },
+  {
+    "text": "初次見面",
+    "episode": "ave-6",
+    "frame_start": 10371,
+    "frame_end": 10406,
+    "segment_id": 6480
+  },
+  {
+    "text": "睦?",
+    "episode": "ave-6",
+    "frame_start": 10459,
+    "frame_end": 10481,
+    "segment_id": 6481
+  },
+  {
+    "text": "在睡覺",
+    "episode": "ave-6",
+    "frame_start": 10544,
+    "frame_end": 10566,
+    "segment_id": 6482
+  },
+  {
+    "text": "她沒在睡啊?",
+    "episode": "ave-6",
+    "frame_start": 10605,
+    "frame_end": 10641,
+    "segment_id": 6483
+  },
+  {
+    "text": "有兩個人",
+    "episode": "ave-6",
+    "frame_start": 10641,
+    "frame_end": 10666,
+    "segment_id": 6484
+  },
+  {
+    "text": "樂奈,妳看得出來嗎",
+    "episode": "ave-6",
+    "frame_start": 10686,
+    "frame_end": 10725,
+    "segment_id": 6485
+  },
+  {
+    "text": "在那裡",
+    "episode": "ave-6",
+    "frame_start": 10752,
+    "frame_end": 10773,
+    "segment_id": 6486
+  },
+  {
+    "text": "妳看得出來小睦也在嗎",
+    "episode": "ave-6",
+    "frame_start": 10781,
+    "frame_end": 10826,
+    "segment_id": 6487
+  },
+  {
+    "text": "我得走了",
+    "episode": "ave-6",
+    "frame_start": 10850,
+    "frame_end": 10882,
+    "segment_id": 6488
+  },
+  {
+    "text": "掰掰",
+    "episode": "ave-6",
+    "frame_start": 10882,
+    "frame_end": 10904,
+    "segment_id": 6489
+  },
+  {
+    "text": "等等",
+    "episode": "ave-6",
+    "frame_start": 10924,
+    "frame_end": 10945,
+    "segment_id": 6490
+  },
+  {
+    "text": "等一下,睦",
+    "episode": "ave-6",
+    "frame_start": 10986,
+    "frame_end": 11021,
+    "segment_id": 6491
+  },
+  {
+    "text": "她說她是Mortis",
+    "episode": "ave-6",
+    "frame_start": 11081,
+    "frame_end": 11134,
+    "segment_id": 6492
+  },
+  {
+    "text": "Mortis?",
+    "episode": "ave-6",
+    "frame_start": 11144,
+    "frame_end": 11184,
+    "segment_id": 6493
+  },
+  {
+    "text": "慢著慢著,什麼意思?",
+    "episode": "ave-6",
+    "frame_start": 11184,
+    "frame_end": 11237,
+    "segment_id": 6494
+  },
+  {
+    "text": "小睦現在,正在她體内沉睡著",
+    "episode": "ave-6",
+    "frame_start": 11284,
+    "frame_end": 11364,
+    "segment_id": 6495
+  },
+  {
+    "text": "等一下",
+    "episode": "ave-6",
+    "frame_start": 11397,
+    "frame_end": 11424,
+    "segment_id": 6496
+  },
+  {
+    "text": "等一下",
+    "episode": "ave-6",
+    "frame_start": 11656,
+    "frame_end": 11684,
+    "segment_id": 6497
+  },
+  {
+    "text": "妳是說那是不同於睦的另一個人格嗎",
+    "episode": "ave-6",
+    "frame_start": 11893,
+    "frame_end": 11980,
+    "segment_id": 6498
+  },
+  {
+    "text": "從與她的對話來看是這種感覺",
+    "episode": "ave-6",
+    "frame_start": 12030,
+    "frame_end": 12075,
+    "segment_id": 6499
+  },
+  {
+    "text": "她說她想叫醒小睦",
+    "episode": "ave-6",
+    "frame_start": 12117,
+    "frame_end": 12190,
+    "segment_id": 6500
+  },
+  {
+    "text": "所以她才把妳軟禁起來?",
+    "episode": "ave-6",
+    "frame_start": 12190,
+    "frame_end": 12234,
+    "segment_id": 6501
+  },
+  {
+    "text": "她自己沒辦法嗎",
+    "episode": "ave-6",
+    "frame_start": 12234,
+    "frame_end": 12272,
+    "segment_id": 6502
+  },
+  {
+    "text": "就是沒辦法才軟禁的吧",
+    "episode": "ave-6",
+    "frame_start": 12272,
+    "frame_end": 12324,
+    "segment_id": 6503
+  },
+  {
+    "text": "小睦",
+    "episode": "ave-6",
+    "frame_start": 12338,
+    "frame_end": 12375,
+    "segment_id": 6504
+  },
+  {
+    "text": "終於追上妳了",
+    "episode": "ave-6",
+    "frame_start": 12492,
+    "frame_end": 12541,
+    "segment_id": 6505
+  },
+  {
+    "text": "叫什麼名字?",
+    "episode": "ave-6",
+    "frame_start": 12700,
+    "frame_end": 12741,
+    "segment_id": 6506
+  },
+  {
+    "text": "貓",
+    "episode": "ave-6",
+    "frame_start": 12778,
+    "frame_end": 12798,
+    "segment_id": 6507
+  },
+  {
+    "text": "貓,貓,貓",
+    "episode": "ave-6",
+    "frame_start": 12841,
+    "frame_end": 12914,
+    "segment_id": 6508
+  },
+  {
+    "text": "不是,我在問妳的名字",
+    "episode": "ave-6",
+    "frame_start": 12924,
+    "frame_end": 12975,
+    "segment_id": 6509
+  },
+  {
+    "text": "樂奈",
+    "episode": "ave-6",
+    "frame_start": 13015,
+    "frame_end": 13036,
+    "segment_id": 6510
+  },
+  {
+    "text": "Mortis",
+    "episode": "ave-6",
+    "frame_start": 13072,
+    "frame_end": 13094,
+    "segment_id": 6511
+  },
+  {
+    "text": "在睡覺的呢?",
+    "episode": "ave-6",
+    "frame_start": 13106,
+    "frame_end": 13135,
+    "segment_id": 6512
+  },
+  {
+    "text": "小睦",
+    "episode": "ave-6",
+    "frame_start": 13192,
+    "frame_end": 13218,
+    "segment_id": 6513
+  },
+  {
+    "text": "牠說牠很喜歡Mortis",
+    "episode": "ave-6",
+    "frame_start": 13338,
+    "frame_end": 13386,
+    "segment_id": 6514
+  },
+  {
+    "text": "她對我說",
+    "episode": "ave-6",
+    "frame_start": 13638,
+    "frame_end": 13675,
+    "segment_id": 6515
+  },
+  {
+    "text": "毁掉小睦和Ave Mujica的人是小祥",
+    "episode": "ave-6",
+    "frame_start": 13684,
+    "frame_end": 13767,
+    "segment_id": 6516
+  },
+  {
+    "text": "現在方便嗎",
+    "episode": "ave-6",
+    "frame_start": 14729,
+    "frame_end": 14754,
+    "segment_id": 6517
+  },
+  {
+    "text": "妳們都知道那個嗎",
+    "episode": "ave-6",
+    "frame_start": 14884,
+    "frame_end": 14934,
+    "segment_id": 6518
+  },
+  {
+    "text": "\"那個\"是指?",
+    "episode": "ave-6",
+    "frame_start": 14968,
+    "frame_end": 14991,
+    "segment_id": 6519
+  },
+  {
+    "text": "睦",
+    "episode": "ave-6",
+    "frame_start": 15006,
+    "frame_end": 15031,
+    "segment_id": 6520
+  },
+  {
+    "text": "怎可能會不知道",
+    "episode": "ave-6",
+    "frame_start": 15054,
+    "frame_end": 15088,
+    "segment_id": 6521
+  },
+  {
+    "text": "她就是讓Ave Mujica解散的導火線",
+    "episode": "ave-6",
+    "frame_start": 15088,
+    "frame_end": 15172,
+    "segment_id": 6522
+  },
+  {
+    "text": "若葉同學變成現在那樣",
+    "episode": "ave-6",
+    "frame_start": 15210,
+    "frame_end": 15250,
+    "segment_id": 6523
+  },
+  {
+    "text": "我們認為樂團也不可能繼續下去了",
+    "episode": "ave-6",
+    "frame_start": 15250,
+    "frame_end": 15315,
+    "segment_id": 6524
+  },
+  {
+    "text": "但我本來就隱約感覺樂團會解散了",
+    "episode": "ave-6",
+    "frame_start": 15327,
+    "frame_end": 15410,
+    "segment_id": 6525
+  },
+  {
+    "text": "不過...這樣啊",
+    "episode": "ave-6",
+    "frame_start": 15449,
+    "frame_end": 15494,
+    "segment_id": 6526
+  },
+  {
+    "text": "在那之後已經過了一個月",
+    "episode": "ave-6",
+    "frame_start": 15506,
+    "frame_end": 15558,
+    "segment_id": 6527
+  },
+  {
+    "text": "還是沒有任何變化呢",
+    "episode": "ave-6",
+    "frame_start": 15558,
+    "frame_end": 15587,
+    "segment_id": 6528
+  },
+  {
+    "text": "這算什麼?",
+    "episode": "ave-6",
+    "frame_start": 15594,
+    "frame_end": 15619,
+    "segment_id": 6529
+  },
+  {
+    "text": "海鈴",
+    "episode": "ave-6",
+    "frame_start": 15648,
+    "frame_end": 15671,
+    "segment_id": 6530
+  },
+  {
+    "text": "妳真的是Mujica的一員嗎",
+    "episode": "ave-6",
+    "frame_start": 15672,
+    "frame_end": 15711,
+    "segment_id": 6531
+  },
+  {
+    "text": "我不懂妳想說什麼",
+    "episode": "ave-6",
+    "frame_start": 15740,
+    "frame_end": 15780,
+    "segment_id": 6532
+  },
+  {
+    "text": "沒什麼",
+    "episode": "ave-6",
+    "frame_start": 15840,
+    "frame_end": 15861,
+    "segment_id": 6533
+  },
+  {
+    "text": "她到底想說什麼",
+    "episode": "ave-6",
+    "frame_start": 16032,
+    "frame_end": 16067,
+    "segment_id": 6534
+  },
+  {
+    "text": "她一直黏著野貓",
+    "episode": "ave-6",
+    "frame_start": 16305,
+    "frame_end": 16345,
+    "segment_id": 6535
+  },
+  {
+    "text": "我明明陪她過了三天三夜",
+    "episode": "ave-6",
+    "frame_start": 16396,
+    "frame_end": 16464,
+    "segment_id": 6536
+  },
+  {
+    "text": "現在怎麼辦?",
+    "episode": "ave-6",
+    "frame_start": 16503,
+    "frame_end": 16540,
+    "segment_id": 6537
+  },
+  {
+    "text": "也不能就這樣置之不理吧?",
+    "episode": "ave-6",
+    "frame_start": 16540,
+    "frame_end": 16590,
+    "segment_id": 6538
+  },
+  {
+    "text": "Mujica的人好像都已經不管她了",
+    "episode": "ave-6",
+    "frame_start": 16590,
+    "frame_end": 16650,
+    "segment_id": 6539
+  },
+  {
+    "text": "什麼意思?妳是哪來的情報?",
+    "episode": "ave-6",
+    "frame_start": 16650,
+    "frame_end": 16703,
+    "segment_id": 6540
+  },
+  {
+    "text": "那傢伙",
+    "episode": "ave-6",
+    "frame_start": 16704,
+    "frame_end": 16725,
+    "segment_id": 6541
+  },
+  {
+    "text": "Timoris嗎",
+    "episode": "ave-6",
+    "frame_start": 16763,
+    "frame_end": 16788,
+    "segment_id": 6542
+  },
+  {
+    "text": "好破爛喔",
+    "episode": "ave-6",
+    "frame_start": 16888,
+    "frame_end": 16917,
+    "segment_id": 6543
+  },
+  {
+    "text": "我要彈吉他",
+    "episode": "ave-6",
+    "frame_start": 16923,
+    "frame_end": 16952,
+    "segment_id": 6544
+  },
+  {
+    "text": "在唱歌",
+    "episode": "ave-6",
+    "frame_start": 17304,
+    "frame_end": 17330,
+    "segment_id": 6545
+  },
+  {
+    "text": "小睦?",
+    "episode": "ave-6",
+    "frame_start": 17396,
+    "frame_end": 17419,
+    "segment_id": 6546
+  },
+  {
+    "text": "小睦醒了",
+    "episode": "ave-6",
+    "frame_start": 17465,
+    "frame_end": 17503,
+    "segment_id": 6547
+  },
+  {
+    "text": "小睦",
+    "episode": "ave-6",
+    "frame_start": 17513,
+    "frame_end": 17540,
+    "segment_id": 6548
+  },
+  {
+    "text": "太好了",
+    "episode": "ave-6",
+    "frame_start": 17552,
+    "frame_end": 17594,
+    "segment_id": 6549
+  },
+  {
+    "text": "我還以為妳真的死掉了",
+    "episode": "ave-6",
+    "frame_start": 17677,
+    "frame_end": 17742,
+    "segment_id": 6550
+  },
+  {
+    "text": "小睦?",
+    "episode": "ave-6",
+    "frame_start": 17780,
+    "frame_end": 17803,
+    "segment_id": 6551
+  },
+  {
+    "text": "小睦,妳一直都在睡覺喔",
+    "episode": "ave-6",
+    "frame_start": 17934,
+    "frame_end": 17988,
+    "segment_id": 6552
+  },
+  {
+    "text": "我去找醫生商量",
+    "episode": "ave-6",
+    "frame_start": 17988,
+    "frame_end": 18021,
+    "segment_id": 6553
+  },
+  {
+    "text": "妳也都不醒來,害我急死了",
+    "episode": "ave-6",
+    "frame_start": 18021,
+    "frame_end": 18068,
+    "segment_id": 6554
+  },
+  {
+    "text": "不過",
+    "episode": "ave-6",
+    "frame_start": 18146,
+    "frame_end": 18166,
+    "segment_id": 6555
+  },
+  {
+    "text": "這樣一來只要小睦能彈吉他",
+    "episode": "ave-6",
+    "frame_start": 18166,
+    "frame_end": 18220,
+    "segment_id": 6556
+  },
+  {
+    "text": "樂團就能恢復原状了吧",
+    "episode": "ave-6",
+    "frame_start": 18220,
+    "frame_end": 18258,
+    "segment_id": 6557
+  },
+  {
+    "text": "随著今晚的面具舞會結束",
+    "episode": "ave-6",
+    "frame_start": 18305,
+    "frame_end": 18360,
+    "segment_id": 6558
+  },
+  {
+    "text": "Ave Mujica將就此落幕",
+    "episode": "ave-6",
+    "frame_start": 18360,
+    "frame_end": 18428,
+    "segment_id": 6559
+  },
+  {
+    "text": "不要!",
+    "episode": "ave-6",
+    "frame_start": 18429,
+    "frame_end": 18499,
+    "segment_id": 6560
+  },
+  {
+    "text": "祥子妳之所以會這執著於樂團",
+    "episode": "ave-6",
+    "frame_start": 18592,
+    "frame_end": 18659,
+    "segment_id": 6561
+  },
+  {
+    "text": "不就是因為這樣嗎",
+    "episode": "ave-6",
+    "frame_start": 18659,
+    "frame_end": 18681,
+    "segment_id": 6562
+  },
+  {
+    "text": "小睦已經死掉了",
+    "episode": "ave-6",
+    "frame_start": 18681,
+    "frame_end": 18712,
+    "segment_id": 6563
+  },
+  {
+    "text": "我說錯了",
+    "episode": "ave-6",
+    "frame_start": 18712,
+    "frame_end": 18736,
+    "segment_id": 6564
+  },
+  {
+    "text": "她是像死掉一樣睡著了",
+    "episode": "ave-6",
+    "frame_start": 18736,
+    "frame_end": 18779,
+    "segment_id": 6565
+  },
+  {
+    "text": "所以我討厭妳",
+    "episode": "ave-6",
+    "frame_start": 18779,
+    "frame_end": 18833,
+    "segment_id": 6566
+  },
+  {
+    "text": "我希望...睦可以回來",
+    "episode": "ave-6",
+    "frame_start": 19124,
+    "frame_end": 19207,
+    "segment_id": 6567
+  },
+  {
+    "text": "祥...",
+    "episode": "ave-6",
+    "frame_start": 19265,
+    "frame_end": 19285,
+    "segment_id": 6568
+  },
+  {
+    "text": "不用擔心",
+    "episode": "ave-6",
+    "frame_start": 19299,
+    "frame_end": 19330,
+    "segment_id": 6569
+  },
+  {
+    "text": "我會替妳擋下所有可怕的東西",
+    "episode": "ave-6",
+    "frame_start": 19330,
+    "frame_end": 19400,
+    "segment_id": 6570
+  },
+  {
+    "text": "所以說",
+    "episode": "ave-6",
+    "frame_start": 19414,
+    "frame_end": 19435,
+    "segment_id": 6571
+  },
+  {
+    "text": "妳就放心專注於吉他吧",
+    "episode": "ave-6",
+    "frame_start": 19435,
+    "frame_end": 19505,
+    "segment_id": 6572
+  },
+  {
+    "text": "為什麼要說那種話",
+    "episode": "ave-6",
+    "frame_start": 19512,
+    "frame_end": 19549,
+    "segment_id": 6573
+  },
+  {
+    "text": "妳都說交給妳了",
+    "episode": "ave-6",
+    "frame_start": 19576,
+    "frame_end": 19616,
+    "segment_id": 6574
+  },
+  {
+    "text": "這樣實在太過分了",
+    "episode": "ave-6",
+    "frame_start": 19627,
+    "frame_end": 19658,
+    "segment_id": 6575
+  },
+  {
+    "text": "祥呢?",
+    "episode": "ave-6",
+    "frame_start": 19683,
+    "frame_end": 19707,
+    "segment_id": 6576
+  },
+  {
+    "text": "祥在哪裡?",
+    "episode": "ave-6",
+    "frame_start": 19719,
+    "frame_end": 19751,
+    "segment_id": 6577
+  },
+  {
+    "text": "Mortis,讓我和祥見面",
+    "episode": "ave-6",
+    "frame_start": 19848,
+    "frame_end": 19908,
+    "segment_id": 6578
+  },
+  {
+    "text": "不可以!",
+    "episode": "ave-6",
+    "frame_start": 19936,
+    "frame_end": 19956,
+    "segment_id": 6579
+  },
+  {
+    "text": "小睦,妳什麼也不懂",
+    "episode": "ave-6",
+    "frame_start": 19977,
+    "frame_end": 20033,
+    "segment_id": 6580
+  },
+  {
+    "text": "怎麼回事",
+    "episode": "ave-6",
+    "frame_start": 20175,
+    "frame_end": 20200,
+    "segment_id": 6581
+  },
+  {
+    "text": "她剛才說小睦?",
+    "episode": "ave-6",
+    "frame_start": 20200,
+    "frame_end": 20250,
+    "segment_id": 6582
+  },
+  {
+    "text": "拜託妳,讓我和祥見面",
+    "episode": "ave-6",
+    "frame_start": 20318,
+    "frame_end": 20377,
+    "segment_id": 6583
+  },
+  {
+    "text": "不行",
+    "episode": "ave-6",
+    "frame_start": 20377,
+    "frame_end": 20395,
+    "segment_id": 6584
+  },
+  {
+    "text": "我想和祥講話",
+    "episode": "ave-6",
+    "frame_start": 20395,
+    "frame_end": 20437,
+    "segment_id": 6585
+  },
+  {
+    "text": "我不都說不行了嗎?",
+    "episode": "ave-6",
+    "frame_start": 20437,
+    "frame_end": 20476,
+    "segment_id": 6586
+  },
+  {
+    "text": "開口開口都是祥",
+    "episode": "ave-6",
+    "frame_start": 20476,
+    "frame_end": 20504,
+    "segment_id": 6587
+  },
+  {
+    "text": "這樣的小睦",
+    "episode": "ave-6",
+    "frame_start": 20504,
+    "frame_end": 20535,
+    "segment_id": 6588
+  },
+  {
+    "text": "不會吧 睦",
+    "episode": "ave-6",
+    "frame_start": 20582,
+    "frame_end": 20609,
+    "segment_id": 6589
+  },
+  {
+    "text": "小睦",
+    "episode": "ave-6",
+    "frame_start": 20609,
+    "frame_end": 20631,
+    "segment_id": 6590
+  },
+  {
+    "text": "我最討厭了",
+    "episode": "ave-6",
+    "frame_start": 20795,
+    "frame_end": 20824,
+    "segment_id": 6591
+  },
+  {
+    "text": "難道妳都忘了自己被小祥傷得有多深嗎",
+    "episode": "ave-6",
+    "frame_start": 20824,
+    "frame_end": 20906,
+    "segment_id": 6592
+  },
+  {
+    "text": "不對",
+    "episode": "ave-6",
+    "frame_start": 20906,
+    "frame_end": 20921,
+    "segment_id": 6593
+  },
+  {
+    "text": "把虚弱的妳逼到崩潰的人就是祥子啊",
+    "episode": "ave-6",
+    "frame_start": 20924,
+    "frame_end": 21012,
+    "segment_id": 6594
+  },
+  {
+    "text": "我不希望讓祥露出那種表情",
+    "episode": "ave-6",
+    "frame_start": 21012,
+    "frame_end": 21092,
+    "segment_id": 6595
+  },
+  {
+    "text": "所以我才會代替妳...",
+    "episode": "ave-6",
+    "frame_start": 21092,
+    "frame_end": 21143,
+    "segment_id": 6596
+  },
+  {
+    "text": "為什要毁掉樂團",
+    "episode": "ave-6",
+    "frame_start": 21180,
+    "frame_end": 21214,
+    "segment_id": 6597
+  },
+  {
+    "text": "就算妳想見祥子,她也不想見小睦妳啊",
+    "episode": "ave-6",
+    "frame_start": 21214,
+    "frame_end": 21297,
+    "segment_id": 6598
+  },
+  {
+    "text": "因為CRYCHIC已經毁了",
+    "episode": "ave-6",
+    "frame_start": 21297,
+    "frame_end": 21320,
+    "segment_id": 6599
+  },
+  {
+    "text": "是Ave Mujica的... 因為CRYCHIC已經毁了",
+    "episode": "ave-6",
+    "frame_start": 21320,
+    "frame_end": 21356,
+    "segment_id": 6600
+  },
+  {
+    "text": "不會吧,是小睦? 所以我這次才想好好努力的",
+    "episode": "ave-6",
+    "frame_start": 21356,
+    "frame_end": 21383,
+    "segment_id": 6601
+  },
+  {
+    "text": "那個人不是小睦嗎 所以我這次才想好好努力的",
+    "episode": "ave-6",
+    "frame_start": 21384,
+    "frame_end": 21408,
+    "segment_id": 6602
+  },
+  {
+    "text": "天啊,是本人耶 可是她從來都沒有來見妳啊",
+    "episode": "ave-6",
+    "frame_start": 21408,
+    "frame_end": 21466,
+    "segment_id": 6603
+  },
+  {
+    "text": "祥除了Mujica已經一無所有了",
+    "episode": "ave-6",
+    "frame_start": 21466,
+    "frame_end": 21550,
+    "segment_id": 6604
+  },
+  {
+    "text": "她既沒有反省也沒有任何改變",
+    "episode": "ave-6",
+    "frame_start": 21550,
+    "frame_end": 21607,
+    "segment_id": 6605
+  },
+  {
+    "text": "再和她見面也只會讓妳受傷而已",
+    "episode": "ave-6",
+    "frame_start": 21607,
+    "frame_end": 21668,
+    "segment_id": 6606
+  },
+  {
+    "text": "拜託把我的話聽進去啊",
+    "episode": "ave-6",
+    "frame_start": 21668,
+    "frame_end": 21702,
+    "segment_id": 6607
+  },
+  {
+    "text": "這是不是什表演啊 拜託把我的話聽進去啊",
+    "episode": "ave-6",
+    "frame_start": 21702,
+    "frame_end": 21726,
+    "segment_id": 6608
+  },
+  {
+    "text": "正在拍嗎 我想和祥見面...",
+    "episode": "ave-6",
+    "frame_start": 21726,
+    "frame_end": 21757,
+    "segment_id": 6609
+  },
+  {
+    "text": "攝影機呢? 我想和祥見面...",
+    "episode": "ave-6",
+    "frame_start": 21757,
+    "frame_end": 21789,
+    "segment_id": 6610
+  },
+  {
+    "text": "不曉得",
+    "episode": "ave-6",
+    "frame_start": 21789,
+    "frame_end": 21807,
+    "segment_id": 6611
+  },
+  {
+    "text": "我們也來拍吧",
+    "episode": "ave-6",
+    "frame_start": 21807,
+    "frame_end": 21852,
+    "segment_id": 6612
+  },
+  {
+    "text": "天啊",
+    "episode": "ave-6",
+    "frame_start": 21852,
+    "frame_end": 21869,
+    "segment_id": 6613
+  },
+  {
+    "text": "請不要拍",
+    "episode": "ave-6",
+    "frame_start": 21915,
+    "frame_end": 21949,
+    "segment_id": 6614
+  },
+  {
+    "text": "請不要拍",
+    "episode": "ave-6",
+    "frame_start": 21962,
+    "frame_end": 21998,
+    "segment_id": 6615
+  },
+  {
+    "text": "沒事了",
+    "episode": "ave-6",
+    "frame_start": 22033,
+    "frame_end": 22064,
+    "segment_id": 6616
+  },
+  {
+    "text": "沒事了",
+    "episode": "ave-6",
+    "frame_start": 22104,
+    "frame_end": 22131,
+    "segment_id": 6617
+  },
+  {
+    "text": "早安喵姆",
+    "episode": "ave-6",
+    "frame_start": 22186,
+    "frame_end": 22228,
+    "segment_id": 6618
+  },
+  {
+    "text": "這次是這間店",
+    "episode": "ave-6",
+    "frame_start": 22228,
+    "frame_end": 22261,
+    "segment_id": 6619
+  },
+  {
+    "text": "（拉麵銀河） 接下來要挑戰超辣拉麵喔",
+    "episode": "ave-6",
+    "frame_start": 22261,
+    "frame_end": 22351,
+    "segment_id": 6620
+  },
+  {
+    "text": "那麼",
+    "episode": "ave-6",
+    "frame_start": 22351,
+    "frame_end": 22373,
+    "segment_id": 6621
+  },
+  {
+    "text": "我點的是號稱 辣到讓人死而復活的最大辣度",
+    "episode": "ave-6",
+    "frame_start": 22373,
+    "frame_end": 22456,
+    "segment_id": 6622
+  },
+  {
+    "text": "現在就來品嘗這碗\"轉生\"吧",
+    "episode": "ave-6",
+    "frame_start": 22456,
+    "frame_end": 22537,
+    "segment_id": 6623
+  },
+  {
+    "text": "咦?",
+    "episode": "ave-6",
+    "frame_start": 22634,
+    "frame_end": 22656,
+    "segment_id": 6624
+  },
+  {
+    "text": "Nyamuchi感覺還好耶",
+    "episode": "ave-6",
+    "frame_start": 22656,
+    "frame_end": 22705,
+    "segment_id": 6625
+  },
+  {
+    "text": "糟糕,這什麼啊",
+    "episode": "ave-6",
+    "frame_start": 22717,
+    "frame_end": 22759,
+    "segment_id": 6626
+  },
+  {
+    "text": "好痛好痛好痛好痛",
+    "episode": "ave-6",
+    "frame_start": 22759,
+    "frame_end": 22799,
+    "segment_id": 6627
+  },
+  {
+    "text": "好痛喔!",
+    "episode": "ave-6",
+    "frame_start": 22800,
+    "frame_end": 22855,
+    "segment_id": 6628
+  },
+  {
+    "text": "非常謝謝各位",
+    "episode": "ave-6",
+    "frame_start": 22875,
+    "frame_end": 22909,
+    "segment_id": 6629
+  },
+  {
+    "text": "我先走了",
+    "episode": "ave-6",
+    "frame_start": 22909,
+    "frame_end": 22936,
+    "segment_id": 6630
+  },
+  {
+    "text": "辛苦了",
+    "episode": "ave-6",
+    "frame_start": 22936,
+    "frame_end": 22965,
+    "segment_id": 6631
+  },
+  {
+    "text": "太扯了吧,怎麼會這麼辣啊?",
+    "episode": "ave-6",
+    "frame_start": 23000,
+    "frame_end": 23078,
+    "segment_id": 6632
+  },
+  {
+    "text": "嘴巴裡面都還刺刺的",
+    "episode": "ave-6",
+    "frame_start": 23078,
+    "frame_end": 23138,
+    "segment_id": 6633
+  },
+  {
+    "text": "希望攝影時臉沒有被汗水弄得很奇怪",
+    "episode": "ave-6",
+    "frame_start": 23138,
+    "frame_end": 23211,
+    "segment_id": 6634
+  },
+  {
+    "text": "討厭啦",
+    "episode": "ave-6",
+    "frame_start": 23211,
+    "frame_end": 23252,
+    "segment_id": 6635
+  },
+  {
+    "text": "睦子?",
+    "episode": "ave-6",
+    "frame_start": 23330,
+    "frame_end": 23356,
+    "segment_id": 6636
+  },
+  {
+    "text": "就算妳想見祥子,她也不想見小睦妳啊",
+    "episode": "ave-6",
+    "frame_start": 23384,
+    "frame_end": 23469,
+    "segment_id": 6637
+  },
+  {
+    "text": "因為CRYCHIC已經毁了",
+    "episode": "ave-6",
+    "frame_start": 23469,
+    "frame_end": 23517,
+    "segment_id": 6638
+  },
+  {
+    "text": "所以我這次才想好好努力的",
+    "episode": "ave-6",
+    "frame_start": 23517,
+    "frame_end": 23568,
+    "segment_id": 6639
+  },
+  {
+    "text": "可是她從來都沒有來見妳啊",
+    "episode": "ave-6",
+    "frame_start": 23568,
+    "frame_end": 23629,
+    "segment_id": 6640
+  },
+  {
+    "text": "祥除了Mujica已經一無所有了",
+    "episode": "ave-6",
+    "frame_start": 23629,
+    "frame_end": 23717,
+    "segment_id": 6641
+  },
+  {
+    "text": "豐川同學,早安",
+    "episode": "ave-6",
+    "frame_start": 23837,
+    "frame_end": 23881,
+    "segment_id": 6642
+  },
+  {
+    "text": "我問妳,妳知道這影片嗎?",
+    "episode": "ave-6",
+    "frame_start": 23908,
+    "frame_end": 23953,
+    "segment_id": 6643
+  },
+  {
+    "text": "就算妳想見祥子,她也不想見小睦妳啊",
+    "episode": "ave-6",
+    "frame_start": 23962,
+    "frame_end": 24048,
+    "segment_id": 6644
+  },
+  {
+    "text": "因為CRYCHIC...",
+    "episode": "ave-6",
+    "frame_start": 24048,
+    "frame_end": 24072,
+    "segment_id": 6645
+  },
+  {
+    "text": "這个女生是小睦吧?",
+    "episode": "ave-6",
+    "frame_start": 24096,
+    "frame_end": 24156,
+    "segment_id": 6646
+  },
+  {
+    "text": "她講的祥是指豐川同學嗎",
+    "episode": "ave-6",
+    "frame_start": 24156,
+    "frame_end": 24205,
+    "segment_id": 6647
+  },
+  {
+    "text": "這齣獨角戲是Ave Mujica的演出嗎",
+    "episode": "ave-6",
+    "frame_start": 24205,
+    "frame_end": 24276,
+    "segment_id": 6648
+  },
+  {
+    "text": "難道Mujica要復活了嗎",
+    "episode": "ave-6",
+    "frame_start": 24276,
+    "frame_end": 24329,
+    "segment_id": 6649
+  },
+  {
+    "text": "原來解散也是演出的一環啊,太属害了",
+    "episode": "ave-6",
+    "frame_start": 24329,
+    "frame_end": 24395,
+    "segment_id": 6650
+  },
+  {
+    "text": "我就知道Mujica一定會捲土重来",
+    "episode": "ave-6",
+    "frame_start": 24395,
+    "frame_end": 24453,
+    "segment_id": 6651
+  },
+  {
+    "text": "對啊",
+    "episode": "ave-6",
+    "frame_start": 24458,
+    "frame_end": 24485,
+    "segment_id": 6652
+  },
+  {
+    "text": "睦...",
+    "episode": "ave-6",
+    "frame_start": 24693,
+    "frame_end": 24718,
+    "segment_id": 6653
+  },
+  {
+    "text": "為什麼妳不肯站在我這邊?",
+    "episode": "ave-6",
+    "frame_start": 24729,
+    "frame_end": 24778,
+    "segment_id": 6654
+  },
+  {
+    "text": "我只剩Mujica了",
+    "episode": "ave-6",
+    "frame_start": 24783,
+    "frame_end": 24812,
+    "segment_id": 6655
+  },
+  {
+    "text": "我除了這世界已經一無所有了",
+    "episode": "ave-6",
+    "frame_start": 24836,
+    "frame_end": 24901,
+    "segment_id": 6656
+  },
+  {
+    "text": "看妳現在這樣",
+    "episode": "ave-6",
+    "frame_start": 24936,
+    "frame_end": 24971,
+    "segment_id": 6657
+  },
+  {
+    "text": "小睦或許永遠不會回來了吧",
+    "episode": "ave-6",
+    "frame_start": 24971,
+    "frame_end": 25034,
+    "segment_id": 6658
+  },
+  {
+    "text": "是我害睦壞掉的",
+    "episode": "ave-6",
+    "frame_start": 25056,
+    "frame_end": 25144,
+    "segment_id": 6659
+  },
+  {
+    "text": "如果沒有我在的話...睦就不會...",
+    "episode": "ave-6",
+    "frame_start": 25164,
+    "frame_end": 25259,
+    "segment_id": 6660
+  },
+  {
+    "text": "睦",
+    "episode": "ave-6",
+    "frame_start": 25344,
+    "frame_end": 25369,
+    "segment_id": 6661
+  },
+  {
+    "text": "小祥",
+    "episode": "ave-6",
+    "frame_start": 25385,
+    "frame_end": 25410,
+    "segment_id": 6662
+  },
+  {
+    "text": "小睦她...",
+    "episode": "ave-6",
+    "frame_start": 25580,
+    "frame_end": 25607,
+    "segment_id": 6663
+  },
+  {
+    "text": "小睦她說想見妳",
+    "episode": "ave-6",
+    "frame_start": 25620,
+    "frame_end": 25680,
+    "segment_id": 6664
+  },
+  {
+    "text": "小睦她不要緊嗎",
+    "episode": "ave-6",
+    "frame_start": 25773,
+    "frame_end": 25817,
+    "segment_id": 6665
+  },
+  {
+    "text": "大家都在傅Mujica要復活",
+    "episode": "ave-6",
+    "frame_start": 25817,
+    "frame_end": 25865,
+    "segment_id": 6666
+  },
+  {
+    "text": "不太妙吧?",
+    "episode": "ave-6",
+    "frame_start": 25865,
+    "frame_end": 25895,
+    "segment_id": 6667
+  },
+  {
+    "text": "小睦説",
+    "episode": "ave-6",
+    "frame_start": 25896,
+    "frame_end": 25929,
+    "segment_id": 6668
+  },
+  {
+    "text": "因為CRYCHIC已經毁了",
+    "episode": "ave-6",
+    "frame_start": 25929,
+    "frame_end": 25984,
+    "segment_id": 6669
+  },
+  {
+    "text": "所以這次想好好努力",
+    "episode": "ave-6",
+    "frame_start": 25984,
+    "frame_end": 26030,
+    "segment_id": 6670
+  },
+  {
+    "text": "還說妳除了Mujica一無所有了",
+    "episode": "ave-6",
+    "frame_start": 26030,
+    "frame_end": 26101,
+    "segment_id": 6671
+  },
+  {
+    "text": "我真的不懂妳們在說什麼",
+    "episode": "ave-6",
+    "frame_start": 26101,
+    "frame_end": 26195,
+    "segment_id": 6672
+  },
+  {
+    "text": "CRYCHIC? Ave Mujica?",
+    "episode": "ave-6",
+    "frame_start": 26237,
+    "frame_end": 26311,
+    "segment_id": 6673
+  },
+  {
+    "text": "那些我根本就不在乎",
+    "episode": "ave-6",
+    "frame_start": 26311,
+    "frame_end": 26355,
+    "segment_id": 6674
+  },
+  {
+    "text": "可是小睦她...",
+    "episode": "ave-6",
+    "frame_start": 26365,
+    "frame_end": 26411,
+    "segment_id": 6675
+  },
+  {
+    "text": "我也不在乎睦",
+    "episode": "ave-6",
+    "frame_start": 26429,
+    "frame_end": 26506,
+    "segment_id": 6676
+  },
+  {
+    "text": "小睦呢?",
+    "episode": "ave-6",
+    "frame_start": 26656,
+    "frame_end": 26684,
+    "segment_id": 6677
+  },
+  {
+    "text": "我拿很多討厭的東西把她關起來了",
+    "episode": "ave-6",
+    "frame_start": 26696,
+    "frame_end": 26756,
+    "segment_id": 6678
+  },
+  {
+    "text": "她一直吵著說想見祥子",
+    "episode": "ave-6",
+    "frame_start": 26756,
+    "frame_end": 26812,
+    "segment_id": 6679
+  },
+  {
+    "text": "怎麼說都不聽",
+    "episode": "ave-6",
+    "frame_start": 26812,
+    "frame_end": 26845,
+    "segment_id": 6680
+  },
+  {
+    "text": "明明讓她們見面祥子一定又會傷害小睦",
+    "episode": "ave-6",
+    "frame_start": 26845,
+    "frame_end": 26922,
+    "segment_id": 6681
+  },
+  {
+    "text": "妳知道小祥家在哪吧?",
+    "episode": "ave-6",
+    "frame_start": 27021,
+    "frame_end": 27078,
+    "segment_id": 6682
+  },
+  {
+    "text": "我要去和小祥談談",
+    "episode": "ave-6",
+    "frame_start": 27104,
+    "frame_end": 27167,
+    "segment_id": 6683
+  },
+  {
+    "text": "聽妳說了這些事",
+    "episode": "ave-6",
+    "frame_start": 27168,
+    "frame_end": 27216,
+    "segment_id": 6684
+  },
+  {
+    "text": "我也不能再繼續保持沉默了",
+    "episode": "ave-6",
+    "frame_start": 27216,
+    "frame_end": 27272,
+    "segment_id": 6685
+  },
+  {
+    "text": "為什麼?",
+    "episode": "ave-6",
+    "frame_start": 27520,
+    "frame_end": 27544,
+    "segment_id": 6686
+  },
+  {
+    "text": "為什麼要告訴她?",
+    "episode": "ave-6",
+    "frame_start": 27563,
+    "frame_end": 27597,
+    "segment_id": 6687
+  },
+  {
+    "text": "不行",
+    "episode": "ave-6",
+    "frame_start": 27597,
+    "frame_end": 27618,
+    "segment_id": 6688
+  },
+  {
+    "text": "不可以自己跑出来",
+    "episode": "ave-6",
+    "frame_start": 27632,
+    "frame_end": 27675,
+    "segment_id": 6689
+  },
+  {
+    "text": "快去阻止爽世",
+    "episode": "ave-6",
+    "frame_start": 27683,
+    "frame_end": 27714,
+    "segment_id": 6690
+  },
+  {
+    "text": "不要讓她去祥家",
+    "episode": "ave-6",
+    "frame_start": 27723,
+    "frame_end": 27768,
+    "segment_id": 6691
+  },
+  {
+    "text": "我說過妳只要在彈吉他時出來就好了吧?",
+    "episode": "ave-6",
+    "frame_start": 27768,
+    "frame_end": 27842,
+    "segment_id": 6692
+  },
+  {
+    "text": "剩下的事都交給我就好了",
+    "episode": "ave-6",
+    "frame_start": 27842,
+    "frame_end": 27891,
+    "segment_id": 6693
+  },
+  {
+    "text": "拜托妳",
+    "episode": "ave-6",
+    "frame_start": 27891,
+    "frame_end": 27916,
+    "segment_id": 6694
+  },
+  {
+    "text": "吵死了!",
+    "episode": "ave-6",
+    "frame_start": 27924,
+    "frame_end": 27967,
+    "segment_id": 6695
+  },
+  {
+    "text": "我到底...是為了什麼...",
+    "episode": "ave-6",
+    "frame_start": 28144,
+    "frame_end": 28221,
+    "segment_id": 6696
+  },
+  {
+    "text": "祥子,妳回來了嗎",
+    "episode": "ave-6",
+    "frame_start": 29165,
+    "frame_end": 29253,
+    "segment_id": 6697
+  },
+  {
+    "text": "祥子?",
+    "episode": "ave-6",
+    "frame_start": 29295,
+    "frame_end": 29325,
+    "segment_id": 6698
+  },
+  {
+    "text": "妳只不過是一個學生",
+    "episode": "ave-6",
+    "frame_start": 29590,
+    "frame_end": 29645,
+    "segment_id": 6699
+  },
+  {
+    "text": "有辦法背負其他人的人生嗎",
+    "episode": "ave-6",
+    "frame_start": 29645,
+    "frame_end": 29701,
+    "segment_id": 6700
+  },
+  {
+    "text": "小祥...",
+    "episode": "ave-6",
+    "frame_start": 29720,
+    "frame_end": 29750,
+    "segment_id": 6701
+  },
+  {
+    "text": "那隻臭野貓",
+    "episode": "ave-6",
+    "frame_start": 29886,
+    "frame_end": 29934,
+    "segment_id": 6702
+  },
+  {
+    "text": "練習前可以先講件事嗎",
+    "episode": "ave-6",
+    "frame_start": 29971,
+    "frame_end": 30022,
+    "segment_id": 6703
+  },
+  {
+    "text": "是關於小祥的事",
+    "episode": "ave-6",
+    "frame_start": 30033,
+    "frame_end": 30077,
+    "segment_id": 6704
+  },
+  {
+    "text": "168億",
+    "episode": "ave-6",
+    "frame_start": 30112,
+    "frame_end": 30167,
+    "segment_id": 6705
+  },
+  {
+    "text": "168億!?",
+    "episode": "ave-6",
+    "frame_start": 30168,
+    "frame_end": 30212,
+    "segment_id": 6706
+  },
+  {
+    "text": "别一直重複",
+    "episode": "ave-6",
+    "frame_start": 30212,
+    "frame_end": 30244,
+    "segment_id": 6707
+  },
+  {
+    "text": "豐川集團是祥子家的...",
+    "episode": "ave-6",
+    "frame_start": 30244,
+    "frame_end": 30292,
+    "segment_id": 6708
+  },
+  {
+    "text": "妳們看看日期",
+    "episode": "ave-6",
+    "frame_start": 30292,
+    "frame_end": 30323,
+    "segment_id": 6709
+  },
+  {
+    "text": "是在CRYCHIC演唱會那天",
+    "episode": "ave-6",
+    "frame_start": 30364,
+    "frame_end": 30415,
+    "segment_id": 6710
+  },
+  {
+    "text": "她之所以表示要退出樂團",
+    "episode": "ave-6",
+    "frame_start": 30574,
+    "frame_end": 30623,
+    "segment_id": 6711
+  },
+  {
+    "text": "也許是有什麼難言之隱吧",
+    "episode": "ave-6",
+    "frame_start": 30624,
+    "frame_end": 30683,
+    "segment_id": 6712
+  },
+  {
+    "text": "真的嗎",
+    "episode": "ave-6",
+    "frame_start": 30712,
+    "frame_end": 30733,
+    "segment_id": 6713
+  },
+  {
+    "text": "她當時原來是那個意思嗎",
+    "episode": "ave-6",
+    "frame_start": 30744,
+    "frame_end": 30805,
+    "segment_id": 6714
+  },
+  {
+    "text": "什麼?",
+    "episode": "ave-6",
+    "frame_start": 30805,
+    "frame_end": 30822,
+    "segment_id": 6715
+  },
+  {
+    "text": "祥子說她不在乎CRYCHIC和Ave Mujica",
+    "episode": "ave-6",
+    "frame_start": 30822,
+    "frame_end": 30920,
+    "segment_id": 6716
+  },
+  {
+    "text": "向她問起小睦",
+    "episode": "ave-6",
+    "frame_start": 30960,
+    "frame_end": 31000,
+    "segment_id": 6717
+  },
+  {
+    "text": "她也說她不在乎睦",
+    "episode": "ave-6",
+    "frame_start": 31000,
+    "frame_end": 31057,
+    "segment_id": 6718
+  },
+  {
+    "text": "不過我可以理解",
+    "episode": "ave-6",
+    "frame_start": 31086,
+    "frame_end": 31131,
+    "segment_id": 6719
+  },
+  {
+    "text": "那種想當成來沒發生過的心情",
+    "episode": "ave-6",
+    "frame_start": 31131,
+    "frame_end": 31182,
+    "segment_id": 6720
+  },
+  {
+    "text": "我想祥子一定也...",
+    "episode": "ave-6",
+    "frame_start": 31190,
+    "frame_end": 31228,
+    "segment_id": 6721
+  },
+  {
+    "text": "小祥真的這麼說嗎",
+    "episode": "ave-6",
+    "frame_start": 31228,
+    "frame_end": 31273,
+    "segment_id": 6722
+  },
+  {
+    "text": "CRYCHIC和Ave Mujica 還有小睦她全都不在乎?",
+    "episode": "ave-6",
+    "frame_start": 31290,
+    "frame_end": 31362,
+    "segment_id": 6723
   }
 ]
