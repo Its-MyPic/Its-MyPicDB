@@ -38,7 +38,7 @@ jobs:
           mv data.proto /tmp/
 
           # Clean working directory completely
-          git rm -rf .
+          git rm -rf . -e data.proto -e data.bin
           git clean -fxd -e data.proto -e data.bin
 
           # Restore data.bin from temp
