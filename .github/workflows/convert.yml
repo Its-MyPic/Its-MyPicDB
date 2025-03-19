@@ -19,7 +19,8 @@ jobs:
         run: |
           wget https://github.com/Its-MyPic/Its-MyPic-Proto-Convert/releases/latest/download/Its-MyPic-Proto-Convert
           chmod +x Its-MyPic-Proto-Convert
-          cat ./data.json | ./Its-MyPic-Proto-Convert > ./data.bin
+          cat ./data.json | ./Its-MyPic-Proto-Convert > /tmp/data.bin
+          rm Its-MyPic-Proto-Convert
 
       - name: Setup Git and Push to Proto Branch
         run: |
@@ -28,9 +29,6 @@ jobs:
 
           # Get current commit hash
           SOURCE_COMMIT=$(git rev-parse HEAD)
-
-          # Save data.bin to temp location
-          cp data.bin /tmp/
 
           # Create or switch to proto branch
           git checkout proto
