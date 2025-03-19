@@ -28,12 +28,14 @@ jobs:
 
           # Get current commit hash
           SOURCE_COMMIT=$(git rev-parse HEAD)
-          
+
           # Save data.bin to temp location
           cp data.bin /tmp/
 
           # Create or switch to proto branch
           git checkout proto 2>/dev/null || git checkout -b proto
+
+          mv data.proto /tmp/
 
           # Clean working directory completely
           git rm -rf .
@@ -41,10 +43,11 @@ jobs:
 
           # Restore data.bin from temp
           mv /tmp/data.bin ./
-          
+          mv /tmp/data.proto ./
+
           # Add and commit the binary file
           git add data.bin
           git commit -m "chore: protobuf binary files from ${SOURCE_COMMIT}"
-          
+
           # Force push with token authentication
           git push -f "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
