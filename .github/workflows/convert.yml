@@ -34,4 +34,4 @@ jobs:
         git commit -m "Update data.bin from latest JSON conversion"
         
         # Push changes to proto branch
-        git push origin proto
+        git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
