@@ -40,7 +40,7 @@ jobs:
           mv /tmp/data.bin ./
           
           # Add and commit the binary file
-          git add data.bin
+          git add .
           git commit -m "Update protocol buffer files"
           
           # Force push with token authentication
