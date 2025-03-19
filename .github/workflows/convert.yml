@@ -33,15 +33,10 @@ jobs:
           cp data.bin /tmp/
 
           # Create or switch to proto branch
-          git checkout proto 2>/dev/null || git checkout -b proto
-
-          # Clean working directory completely
-          git rm -rf . -e data.proto -e data.bin
-          git clean -fxd -e data.proto -e data.bin
+          git checkout proto
 
           # Restore data.bin from temp
           mv /tmp/data.bin ./
-          mv /tmp/data.proto ./
 
           # Add and commit the binary file
           git add data.bin
