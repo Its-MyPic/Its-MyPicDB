@@ -38,7 +38,7 @@ jobs:
 
           # Add and commit the binary file
           git add data.bin
-          git commit -m "chore: protobuf binary files from ${SOURCE_COMMIT}"
+          git commit --allow-empty -m "chore: protobuf binary files from ${SOURCE_COMMIT}"
 
           # Force push with token authentication
           git push -f "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
