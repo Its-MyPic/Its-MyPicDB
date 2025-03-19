@@ -26,6 +26,9 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+          # Get current commit hash
+          SOURCE_COMMIT=$(git rev-parse HEAD)
+          
           # Save data.bin to temp location
           cp data.bin /tmp/
 
@@ -40,8 +43,8 @@ jobs:
           mv /tmp/data.bin ./
           
           # Add and commit the binary file
-          git add .
-          git commit -m "Update protocol buffer files"
+          git add data.bin
+          git commit -m "chore: protobuf binary files from ${SOURCE_COMMIT}"
           
           # Force push with token authentication
           git push -f "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
