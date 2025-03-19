@@ -35,8 +35,6 @@ jobs:
           # Create or switch to proto branch
           git checkout proto 2>/dev/null || git checkout -b proto
 
-          mv data.proto /tmp/
-
           # Clean working directory completely
           git rm -rf . -e data.proto -e data.bin
           git clean -fxd -e data.proto -e data.bin
