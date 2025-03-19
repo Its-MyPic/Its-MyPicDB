@@ -33,15 +33,14 @@ jobs:
           git checkout proto 2>/dev/null || git checkout -b proto
 
           # Remove all files except .git
-          find . -mindepth 1 -maxdepth 1 ! -name '.git' -exec rm -rf {} +
+          find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name 'data.proto' -exec rm -rf {} +
 
-          # Restore data.bin and keep existing data.proto if it exists
+          # Restore data.bin
           mv /tmp/data.bin ./
-          git checkout HEAD -- data.proto || true
-
-          # Add and commit only the required files
-          git add data.bin data.proto || git add data.bin
+          
+          # Add and commit the binary file
+          git add data.bin
           git commit -m "Update protocol buffer files"
-
-          # Push with token authentication
-          git push "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
+          
+          # Force push with token authentication
+          git push -f "https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" proto
