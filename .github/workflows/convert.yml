@@ -32,10 +32,11 @@ jobs:
           # Create or switch to proto branch
           git checkout proto 2>/dev/null || git checkout -b proto
 
-          # Remove all files except .git
-          find . -mindepth 1 -maxdepth 1 ! -name '.git' ! -name 'data.proto' -exec rm -rf {} +
+          # Clean working directory completely
+          git rm -rf .
+          git clean -fxd -e data.proto -e data.bin
 
-          # Restore data.bin
+          # Restore data.bin from temp
           mv /tmp/data.bin ./
           
           # Add and commit the binary file
