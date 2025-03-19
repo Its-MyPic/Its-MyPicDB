@@ -1,0 +1,37 @@
+name: build
+
+on:
+  push:
+    branches:
+      - json
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0  # This ensures we get full git history
+
+    - name: convert to binary
+      run: |
+        wget https://github.com/Its-MyPic/Its-MyPic-Proto-Convert/releases/latest/download/Its-MyPic-Proto-Convert
+        chmod +x Its-MyPic-Proto-Convert
+        cat ./data.json | ./Its-MyPic-Proto-Convert > ./data.bin
+
+    - name: Setup Git and Push to Proto Branch
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Create and switch to proto branch, or switch if it exists
+        git checkout proto 2>/dev/null || git checkout -b proto
+        
+        # Add and commit the binary file
+        git add data.bin
+        git commit -m "Update data.bin from latest JSON conversion"
+        
+        # Push changes to proto branch
+        git push origin proto
