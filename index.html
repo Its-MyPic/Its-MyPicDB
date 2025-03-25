@@ -1,18 +1,38 @@
-<body>[{"搜尋中":0}]</body>
+<body>
+  [{"data":[]}]
+</body>
 <script>
-var query = decodeURIComponent(location.search.split("=")[1]);
-var xhr = new XMLHttpRequest();
-xhr.open("GET", "https://raw.githubusercontent.com/Its-MyPic/Its-MyPicDB/refs/heads/json/data.json", false); // 第三個參數 false 代表同步
-xhr.send();
+  function normalize(str) {
+    return str
+      .toLowerCase()
+      .replace("你", "妳")
+      .replace("阿", "啊")
+      .replace("他", "她")
+      .replace("？", "?")
+      .replace("！", "!")
+      .replace("：", ":")
+      .replace("，", ",");
+  }
 
-if (xhr.status === 200) {
-  var data = JSON.parse(xhr.responseText);
-  var result = data.filter(function (item) {
-    return item.text.includes(query);
-  });
-  document.body.textContent = JSON.stringify(result);
-} else {
-  document.body.textContent = "[]";
-}
+  var query = decodeURIComponent(location.search.split("=")[1]);
+  var query = normalize(query);
+  var xhr = new XMLHttpRequest();
+  xhr.open(
+    "GET",
+    "https://raw.githubusercontent.com/Its-MyPic/Its-MyPicDB/refs/heads/json/data.json",
+    false
+  );
+  xhr.send();
 
+  if (xhr.status === 200) {
+    var data = JSON.parse(xhr.responseText);
+    var result = {
+      data: data.filter(function (item) {
+        return normalize(item.text).includes(query);
+      }),
+    };
+    document.body.textContent = JSON.stringify(result);
+  } else {
+    document.body.textContent = "[]";
+  }
 </script>
